@@ -1,0 +1,11 @@
+Desafíos y reflexiones de la tarea 1:
+
+Tiempo estimado: 5 horas (3 programación en Código, 2 en videotutoriales y solución de errores).
+Desafío principal: Nunca había indexado un archivo CSV a Java y menos manipular sus valores. Me tomo tiempo comprender el Código
+y aplicar a lo que se pedía..
+Me di cuenta que aun me falta mucho por aprender y practicar.
+
+Los problemas los aborde con el auto aprendizaje. Viendo videos en la red. (fue difícil ya que hay que adaptar lo que aprendes)
+Estamos en los primeros pasos de la comprensión de problemas de los ingenieros en sistemas y adaptar la lógica
+al principio es difícil.
+
